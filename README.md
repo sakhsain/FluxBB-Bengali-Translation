@@ -2,7 +2,7 @@
 বাংলা অনুবাদক প্যাক।
 
 ### Overview 🌍 
-This package is a Bengali translation file for FluxBB.
+This pack is a Bengali translation file for FluxBB.
 
 FluxBB কে বাংলায় অনুবাদ করার জন্য প্যাকটি ব্যবহার করুন।
 FluxBB: [http://fluxbb.org/](http://fluxbb.org/)
