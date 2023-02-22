@@ -4,9 +4,9 @@
 $lang_admin_common = array(
 
 // The menu
-'Admin menu'			=>	'এডমিন  মেন্যু',
-'Plugins menu'			=>	'প্লাগিন্স মেন্যু',
-'Moderator menu'		=>	'মডারেটর  মেন্যু',
+'Admin menu'			=>	'এডমিন  মেনু',
+'Plugins menu'			=>	'প্লাগিন্স মেনু',
+'Moderator menu'		=>	'মডারেটর  মেনু',
 'Index'					=>	'ইনডেক্স',
 'Categories'			=>	'ক্যাটাগরি গুলি',
 'Forums'				=>	'ফোরাম গুলি',
