@@ -25,5 +25,5 @@ Note: If you have added a language pack to the installed environment, change the
 ### License and Disclaimer ⚖️📜
 License: [GNU GPL V2 ( by the FluxBB)](https://github.com/fluxbb/fluxbb/blob/master/COPYING).
 
-Disclaimer: The translator does not compensate for any damage caused by the use of FluxBB or this file by the user.
+Disclaimer: The translator does not compensate for any damage caused by the use of FluxBB or this file by the user. :⁠-⁠)
 
